@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CE2110-50E0-40A1-835D-EAEE85F38D01}|bai3\\bai3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai4\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CE2110-50E0-40A1-835D-EAEE85F38D01}|bai3\\bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CE2110-50E0-40A1-835D-EAEE85F38D01}|bai3\\bai3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai4\\bai3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CE2110-50E0-40A1-835D-EAEE85F38D01}|bai3\\bai3.csproj|solutionrelative:bai3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8073CD-968E-455F-A56C-B1238E0EDC9E}|Bai4\\Bai4.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai4\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8073CD-968E-455F-A56C-B1238E0EDC9E}|Bai4\\Bai4.csproj|solutionrelative:bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8073CD-968E-455F-A56C-B1238E0EDC9E}|Bai4\\bai2.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai4\\bai4\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8073CD-968E-455F-A56C-B1238E0EDC9E}|Bai4\\bai2.csproj|solutionrelative:bai4\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8633E40-846B-4652-A8C1-CEE1A2B55EF9}|bai1\\bai1.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai4\\bai1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8633E40-846B-4652-A8C1-CEE1A2B55EF9}|bai1\\bai1.csproj|solutionrelative:bai1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8633E40-846B-4652-A8C1-CEE1A2B55EF9}|bai1\\bai1.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai4\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8633E40-846B-4652-A8C1-CEE1A2B55EF9}|bai1\\bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\bai1\\Program.cs",
+              "RelativeDocumentMoniker": "bai1\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\bai1\\Program.cs",
+              "RelativeToolTip": "bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T02:06:43.866Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\bai3\\Student.cs",
+              "RelativeDocumentMoniker": "bai3\\Student.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\bai3\\Student.cs",
+              "RelativeToolTip": "bai3\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T02:33:06.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\bai3\\Program.cs",
+              "RelativeDocumentMoniker": "bai3\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\bai3\\Program.cs",
+              "RelativeToolTip": "bai3\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T02:32:10.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\Bai4\\Circle.cs",
+              "RelativeDocumentMoniker": "Bai4\\Circle.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\Bai4\\Circle.cs",
+              "RelativeToolTip": "Bai4\\Circle.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T02:31:16.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\bai1\\Person.cs",
+              "RelativeDocumentMoniker": "bai1\\Person.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\bai1\\Person.cs",
+              "RelativeToolTip": "bai1\\Person.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T02:28:16.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Bai4\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai4\\Bai4\\Program.cs",
+              "RelativeToolTip": "Bai4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T02:06:08.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

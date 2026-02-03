@@ -1,0 +1,7 @@
+D:\vinh\NhapLieu\bin\Debug\NhapLieu.exe.config
+D:\vinh\NhapLieu\bin\Debug\NhapLieu.exe
+D:\vinh\NhapLieu\bin\Debug\NhapLieu.pdb
+D:\vinh\NhapLieu\obj\Debug\NhapLieu.csproj.AssemblyReference.cache
+D:\vinh\NhapLieu\obj\Debug\NhapLieu.csproj.CoreCompileInputs.cache
+D:\vinh\NhapLieu\obj\Debug\NhapLieu.exe
+D:\vinh\NhapLieu\obj\Debug\NhapLieu.pdb

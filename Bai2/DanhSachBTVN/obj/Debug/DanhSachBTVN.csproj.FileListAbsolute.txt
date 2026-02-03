@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\DanhSachBTVN\obj\Debug\DanhSachBTVN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\DanhSachBTVN\obj\Debug\DanhSachBTVN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\DanhSachBTVN\bin\Debug\DanhSachBTVN.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\DanhSachBTVN\bin\Debug\DanhSachBTVN.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\DanhSachBTVN\bin\Debug\DanhSachBTVN.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\DanhSachBTVN\obj\Debug\DanhSachBTVN.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\DanhSachBTVN\obj\Debug\DanhSachBTVN.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\DanhSachBTVN\obj\Debug\DanhSachBTVN.exe.config

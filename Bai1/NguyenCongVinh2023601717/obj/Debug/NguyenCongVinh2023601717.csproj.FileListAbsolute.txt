@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\NguyenCongVinh2023601717\NguyenCongVinh2023601717\bin\Debug\NguyenCongVinh2023601717.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\NguyenCongVinh2023601717\NguyenCongVinh2023601717\bin\Debug\NguyenCongVinh2023601717.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\NguyenCongVinh2023601717\NguyenCongVinh2023601717\bin\Debug\NguyenCongVinh2023601717.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\NguyenCongVinh2023601717\NguyenCongVinh2023601717\obj\Debug\NguyenCongVinh2023601717.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\NguyenCongVinh2023601717\NguyenCongVinh2023601717\obj\Debug\NguyenCongVinh2023601717.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\NguyenCongVinh2023601717\NguyenCongVinh2023601717\obj\Debug\NguyenCongVinh2023601717.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\NguyenCongVinh2023601717\NguyenCongVinh2023601717\obj\Debug\NguyenCongVinh2023601717.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\NguyenCongVinh2023601717\NguyenCongVinh2023601717\obj\Debug\NguyenCongVinh2023601717.exe.config

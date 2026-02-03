@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\CauTruc\bin\Debug\CauTruc.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\CauTruc\bin\Debug\CauTruc.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\CauTruc\bin\Debug\CauTruc.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\CauTruc\obj\Debug\CauTruc.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\CauTruc\obj\Debug\CauTruc.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\CauTruc\obj\Debug\CauTruc.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\CauTruc\obj\Debug\CauTruc.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\CauTruc\obj\Debug\CauTruc.exe.config

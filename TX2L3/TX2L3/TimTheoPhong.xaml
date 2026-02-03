@@ -1,0 +1,22 @@
+﻿<Window x:Class="TX2L3.TimTheoPhong"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TX2L3"
+        mc:Ignorable="d"
+        Title="TimTheoPhong" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" FontSize="30" FontWeight="Bold" Foreground="Blue">DANH SÁCH NHÂN VIÊN THEO PHÒNG</TextBlock>
+        <DataGrid x:Name="dgvTim" AutoGenerateColumns="False" Margin="50,50,50,50">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã nhân viên" Binding="{Binding manv}"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding hoten}"/>
+                <DataGridTextColumn Header="Ngày sinh" Binding="{Binding ngaysinh}"/>
+                <DataGridTextColumn Header="Giới tính" Binding="{Binding gioitinh}"/>
+                <DataGridTextColumn Header="Phòng ban" Binding="{Binding phongban}"/>
+                <DataGridTextColumn Header="Hệ số lương" Binding="{Binding hesoluong}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

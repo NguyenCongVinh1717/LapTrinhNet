@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{176D8EC7-3097-4CB0-AE47-E33680D97076}|TX2L3\\TX2L3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\tx2l3\\tx2l3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{176D8EC7-3097-4CB0-AE47-E33680D97076}|TX2L3\\TX2L3.csproj|solutionrelative:tx2l3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D8EC7-3097-4CB0-AE47-E33680D97076}|TX2L3\\TX2L3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\tx2l3\\tx2l3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D8EC7-3097-4CB0-AE47-E33680D97076}|TX2L3\\TX2L3.csproj|solutionrelative:tx2l3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D8EC7-3097-4CB0-AE47-E33680D97076}|TX2L3\\TX2L3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\tx2l3\\tx2l3\\timtheophong.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D8EC7-3097-4CB0-AE47-E33680D97076}|TX2L3\\TX2L3.csproj|solutionrelative:tx2l3\\timtheophong.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D8EC7-3097-4CB0-AE47-E33680D97076}|TX2L3\\TX2L3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\tx2l3\\tx2l3\\timtheophong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{176D8EC7-3097-4CB0-AE47-E33680D97076}|TX2L3\\TX2L3.csproj|solutionrelative:tx2l3\\timtheophong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D8EC7-3097-4CB0-AE47-E33680D97076}|TX2L3\\TX2L3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\tx2l3\\tx2l3\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D8EC7-3097-4CB0-AE47-E33680D97076}|TX2L3\\TX2L3.csproj|solutionrelative:tx2l3\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimTheoPhong.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\TX2L3\\TimTheoPhong.xaml.cs",
+              "RelativeDocumentMoniker": "TX2L3\\TimTheoPhong.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\TX2L3\\TimTheoPhong.xaml.cs",
+              "RelativeToolTip": "TX2L3\\TimTheoPhong.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:22:38.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimTheoPhong.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\TX2L3\\TimTheoPhong.xaml",
+              "RelativeDocumentMoniker": "TX2L3\\TimTheoPhong.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\TX2L3\\TimTheoPhong.xaml",
+              "RelativeToolTip": "TX2L3\\TimTheoPhong.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-03T15:20:29.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\TX2L3\\NhanVien.cs",
+              "RelativeDocumentMoniker": "TX2L3\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\TX2L3\\NhanVien.cs",
+              "RelativeToolTip": "TX2L3\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:46:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\TX2L3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TX2L3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\TX2L3\\MainWindow.xaml*",
+              "RelativeToolTip": "TX2L3\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-03T14:20:05.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\TX2L3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TX2L3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\TX2L3\\TX2L3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TX2L3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAEwEAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:19:58.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

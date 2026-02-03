@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\NCVLT2\NCVLT2\bin\Debug\NCVLT2.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\NCVLT2\NCVLT2\bin\Debug\NCVLT2.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\NCVLT2\NCVLT2\bin\Debug\NCVLT2.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\NCVLT2\NCVLT2\obj\Debug\NCVLT2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\NCVLT2\NCVLT2\obj\Debug\NCVLT2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\NCVLT2\NCVLT2\obj\Debug\NCVLT2.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\NCVLT2\NCVLT2\obj\Debug\NCVLT2.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\NCVLT2\NCVLT2\obj\Debug\NCVLT2.exe.config

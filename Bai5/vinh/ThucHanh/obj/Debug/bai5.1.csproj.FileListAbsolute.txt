@@ -1,0 +1,15 @@
+D:\vinh\ThucHanh\bin\Debug\ThucHanh.exe.config
+D:\vinh\ThucHanh\bin\Debug\ThucHanh.exe
+D:\vinh\ThucHanh\bin\Debug\ThucHanh.pdb
+D:\vinh\ThucHanh\obj\Debug\bai5.1.csproj.AssemblyReference.cache
+D:\vinh\ThucHanh\obj\Debug\bai5.1.csproj.CoreCompileInputs.cache
+D:\vinh\ThucHanh\obj\Debug\ThucHanh.exe
+D:\vinh\ThucHanh\obj\Debug\ThucHanh.pdb
+C:\Users\ADMIN\Downloads\vinh (1)\vinh\ThucHanh\bin\Debug\ThucHanh.exe.config
+C:\Users\ADMIN\Downloads\vinh (1)\vinh\ThucHanh\bin\Debug\ThucHanh.exe
+C:\Users\ADMIN\Downloads\vinh (1)\vinh\ThucHanh\bin\Debug\ThucHanh.pdb
+C:\Users\ADMIN\Downloads\vinh (1)\vinh\ThucHanh\obj\Debug\bai5.1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\vinh (1)\vinh\ThucHanh\obj\Debug\ThucHanh.exe.config
+C:\Users\ADMIN\Downloads\vinh (1)\vinh\ThucHanh\obj\Debug\bai5.1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\vinh (1)\vinh\ThucHanh\obj\Debug\ThucHanh.exe
+C:\Users\ADMIN\Downloads\vinh (1)\vinh\ThucHanh\obj\Debug\ThucHanh.pdb

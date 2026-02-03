@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\giaiThua\bin\Debug\giaiThua.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\giaiThua\bin\Debug\giaiThua.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\giaiThua\bin\Debug\giaiThua.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\giaiThua\obj\Debug\giaiThua.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\giaiThua\obj\Debug\giaiThua.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\giaiThua\obj\Debug\giaiThua.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\giaiThua\obj\Debug\giaiThua.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\giaiThua\obj\Debug\giaiThua.exe.config

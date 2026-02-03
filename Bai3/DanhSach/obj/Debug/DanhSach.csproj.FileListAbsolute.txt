@@ -1,0 +1,7 @@
+D:\vinh\DanhSach\bin\Debug\DanhSach.exe.config
+D:\vinh\DanhSach\bin\Debug\DanhSach.exe
+D:\vinh\DanhSach\bin\Debug\DanhSach.pdb
+D:\vinh\DanhSach\obj\Debug\DanhSach.csproj.AssemblyReference.cache
+D:\vinh\DanhSach\obj\Debug\DanhSach.csproj.CoreCompileInputs.cache
+D:\vinh\DanhSach\obj\Debug\DanhSach.exe
+D:\vinh\DanhSach\obj\Debug\DanhSach.pdb

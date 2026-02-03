@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA61887A-4F91-4A41-8D96-D655737D0E91}|DanhSachBTVN\\DanhSachBTVN.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai2\\danhsachbtvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA61887A-4F91-4A41-8D96-D655737D0E91}|DanhSachBTVN\\DanhSachBTVN.csproj|solutionrelative:danhsachbtvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B798C2-D6FC-42DC-9691-22550A4FD6DE}|DanhSach\\DanhSach.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\danhsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B798C2-D6FC-42DC-9691-22550A4FD6DE}|DanhSach\\DanhSach.csproj|solutionrelative:danhsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7B538D-F46C-4AC5-9BD1-885A768F8B5A}|Mang\\Mang.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai2\\mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7B538D-F46C-4AC5-9BD1-885A768F8B5A}|Mang\\Mang.csproj|solutionrelative:mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F00863A-D028-420B-A283-E0C8B4899151}|giaiThua\\giaiThua.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\giaithua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F00863A-D028-420B-A283-E0C8B4899151}|giaiThua\\giaiThua.csproj|solutionrelative:giaithua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2C62C5-C9D2-44D9-888B-668449E399AD}|Chuoi\\Chuoi.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai2\\chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2C62C5-C9D2-44D9-888B-668449E399AD}|Chuoi\\Chuoi.csproj|solutionrelative:chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADEC00-06B2-4533-8B1A-394ED30DCDB1}|CauTruc\\CauTruc.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai2\\cautruc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADEC00-06B2-4533-8B1A-394ED30DCDB1}|CauTruc\\CauTruc.csproj|solutionrelative:cautruc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7290F4E8-30A8-479B-8574-04DD5B5A9A22}|fibonaci\\fibonaci.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\fibonaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7290F4E8-30A8-479B-8574-04DD5B5A9A22}|fibonaci\\fibonaci.csproj|solutionrelative:fibonaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|fibonaci||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA1E7BE-52FD-4C35-A1FD-2E34091FEC17}|Bai2\\Bai2.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA1E7BE-52FD-4C35-A1FD-2E34091FEC17}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\DanhSachBTVN\\Program.cs",
+              "RelativeDocumentMoniker": "DanhSachBTVN\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\DanhSachBTVN\\Program.cs",
+              "RelativeToolTip": "DanhSachBTVN\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:35:04.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\Mang\\Program.cs",
+              "RelativeDocumentMoniker": "Mang\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\Mang\\Program.cs",
+              "RelativeToolTip": "Mang\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:22:58.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\Chuoi\\Program.cs",
+              "RelativeDocumentMoniker": "Chuoi\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\Chuoi\\Program.cs",
+              "RelativeToolTip": "Chuoi\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:08:26.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\CauTruc\\Program.cs",
+              "RelativeDocumentMoniker": "CauTruc\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\CauTruc\\Program.cs",
+              "RelativeToolTip": "CauTruc\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:38:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fibonaci",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\fibonaci\\fibonaci.csproj",
+              "RelativeDocumentMoniker": "fibonaci\\fibonaci.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\fibonaci\\fibonaci.csproj",
+              "RelativeToolTip": "fibonaci\\fibonaci.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-12T14:48:23.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\DanhSach\\Program.cs",
+              "RelativeDocumentMoniker": "DanhSach\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\DanhSach\\Program.cs",
+              "RelativeToolTip": "DanhSach\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:05:39.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\giaiThua\\Program.cs",
+              "RelativeDocumentMoniker": "giaiThua\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\giaiThua\\Program.cs",
+              "RelativeToolTip": "giaiThua\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:42:16.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\fibonaci\\Program.cs",
+              "RelativeDocumentMoniker": "fibonaci\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\fibonaci\\Program.cs",
+              "RelativeToolTip": "fibonaci\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:20:42.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai2\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:12:31.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

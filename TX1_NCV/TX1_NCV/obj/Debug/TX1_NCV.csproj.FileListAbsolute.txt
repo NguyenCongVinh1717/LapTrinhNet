@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\TX1_NCV\TX1_NCV\bin\Debug\TX1_NCV.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\TX1_NCV\TX1_NCV\bin\Debug\TX1_NCV.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\TX1_NCV\TX1_NCV\bin\Debug\TX1_NCV.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\TX1_NCV\TX1_NCV\obj\Debug\TX1_NCV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\TX1_NCV\TX1_NCV\obj\Debug\TX1_NCV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\TX1_NCV\TX1_NCV\obj\Debug\TX1_NCV.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\TX1_NCV\TX1_NCV\obj\Debug\TX1_NCV.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\TX1_NCV\TX1_NCV\obj\Debug\TX1_NCV.exe.config

@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1TongHop\Bai1TongHop\bin\Debug\Bai1TongHop.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1TongHop\Bai1TongHop\bin\Debug\Bai1TongHop.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1TongHop\Bai1TongHop\bin\Debug\Bai1TongHop.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1TongHop\Bai1TongHop\obj\Debug\Bai1TongHop.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1TongHop\Bai1TongHop\obj\Debug\Bai1TongHop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1TongHop\Bai1TongHop\obj\Debug\Bai1TongHop.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1TongHop\Bai1TongHop\obj\Debug\Bai1TongHop.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1TongHop\Bai1TongHop\obj\Debug\Bai1TongHop.exe.config

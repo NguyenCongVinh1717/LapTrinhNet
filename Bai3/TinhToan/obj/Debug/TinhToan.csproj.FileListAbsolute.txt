@@ -1,0 +1,7 @@
+D:\vinh\TinhToan\bin\Debug\TinhToan.exe.config
+D:\vinh\TinhToan\bin\Debug\TinhToan.exe
+D:\vinh\TinhToan\bin\Debug\TinhToan.pdb
+D:\vinh\TinhToan\obj\Debug\TinhToan.csproj.AssemblyReference.cache
+D:\vinh\TinhToan\obj\Debug\TinhToan.csproj.CoreCompileInputs.cache
+D:\vinh\TinhToan\obj\Debug\TinhToan.exe
+D:\vinh\TinhToan\obj\Debug\TinhToan.pdb

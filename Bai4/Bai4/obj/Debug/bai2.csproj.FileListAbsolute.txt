@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai4\Bai4\bin\Debug\Bai4.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai4\Bai4\bin\Debug\Bai4.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai4\Bai4\bin\Debug\Bai4.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai4\Bai4\obj\Debug\bai2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai4\Bai4\obj\Debug\Bai4.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai4\Bai4\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai4\Bai4\obj\Debug\Bai4.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai4\Bai4\obj\Debug\Bai4.pdb

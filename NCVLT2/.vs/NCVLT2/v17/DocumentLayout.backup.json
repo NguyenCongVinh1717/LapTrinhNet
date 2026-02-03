@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E062437E-AB38-4310-8CE5-FD88EBD898C1}|NCVLT2\\NCVLT2.csproj|c:\\users\\admin\\documents\\laptrinhnet\\ncvlt2\\ncvlt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E062437E-AB38-4310-8CE5-FD88EBD898C1}|NCVLT2\\NCVLT2.csproj|solutionrelative:ncvlt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E062437E-AB38-4310-8CE5-FD88EBD898C1}|NCVLT2\\NCVLT2.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\ncvlt2\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E062437E-AB38-4310-8CE5-FD88EBD898C1}|NCVLT2\\NCVLT2.csproj|solutionrelative:ncvlt2\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E062437E-AB38-4310-8CE5-FD88EBD898C1}|NCVLT2\\NCVLT2.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\ncvlt2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E062437E-AB38-4310-8CE5-FD88EBD898C1}|NCVLT2\\NCVLT2.csproj|solutionrelative:ncvlt2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E062437E-AB38-4310-8CE5-FD88EBD898C1}|NCVLT2\\NCVLT2.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\ncvlt2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E062437E-AB38-4310-8CE5-FD88EBD898C1}|NCVLT2\\NCVLT2.csproj|solutionrelative:ncvlt2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E062437E-AB38-4310-8CE5-FD88EBD898C1}|NCVLT2\\NCVLT2.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\ncvlt2\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E062437E-AB38-4310-8CE5-FD88EBD898C1}|NCVLT2\\NCVLT2.csproj|solutionrelative:ncvlt2\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\NCVLT2\\IVehicle.cs",
+              "RelativeDocumentMoniker": "NCVLT2\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\NCVLT2\\IVehicle.cs",
+              "RelativeToolTip": "NCVLT2\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:43:49.201Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\NCVLT2\\Car.cs",
+              "RelativeDocumentMoniker": "NCVLT2\\Car.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\NCVLT2\\Car.cs",
+              "RelativeToolTip": "NCVLT2\\Car.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:54:51.187Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\NCVLT2\\Program.cs",
+              "RelativeDocumentMoniker": "NCVLT2\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\NCVLT2\\Program.cs",
+              "RelativeToolTip": "NCVLT2\\Program.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:43:09.48Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\NCVLT2\\Truck.cs",
+              "RelativeDocumentMoniker": "NCVLT2\\Truck.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\NCVLT2\\Truck.cs",
+              "RelativeToolTip": "NCVLT2\\Truck.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:00:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\NCVLT2\\Vehicle.cs",
+              "RelativeDocumentMoniker": "NCVLT2\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\NCVLT2\\NCVLT2\\Vehicle.cs",
+              "RelativeToolTip": "NCVLT2\\Vehicle.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:44:22.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

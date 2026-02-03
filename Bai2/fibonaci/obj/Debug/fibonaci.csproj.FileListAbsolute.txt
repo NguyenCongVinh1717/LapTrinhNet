@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\fibonaci\bin\Debug\fibonaci.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\fibonaci\bin\Debug\fibonaci.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\fibonaci\bin\Debug\fibonaci.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\fibonaci\obj\Debug\fibonaci.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\fibonaci\obj\Debug\fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\fibonaci\obj\Debug\fibonaci.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\fibonaci\obj\Debug\fibonaci.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\fibonaci\obj\Debug\fibonaci.exe.config

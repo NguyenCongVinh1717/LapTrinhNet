@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\Chuoi\bin\Debug\Chuoi.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\Chuoi\bin\Debug\Chuoi.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\Chuoi\bin\Debug\Chuoi.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\Chuoi\obj\Debug\Chuoi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\Chuoi\obj\Debug\Chuoi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\Chuoi\obj\Debug\Chuoi.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\Chuoi\obj\Debug\Chuoi.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai2\Chuoi\obj\Debug\Chuoi.exe.config

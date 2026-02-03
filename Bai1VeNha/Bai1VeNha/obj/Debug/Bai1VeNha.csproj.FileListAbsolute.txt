@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1VeNha\Bai1VeNha\bin\Debug\Bai1VeNha.exe.config
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1VeNha\Bai1VeNha\bin\Debug\Bai1VeNha.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1VeNha\Bai1VeNha\bin\Debug\Bai1VeNha.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1VeNha\Bai1VeNha\obj\Debug\Bai1VeNha.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1VeNha\Bai1VeNha\obj\Debug\Bai1VeNha.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1VeNha\Bai1VeNha\obj\Debug\Bai1VeNha.exe
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1VeNha\Bai1VeNha\obj\Debug\Bai1VeNha.pdb
+C:\Users\ADMIN\Documents\LapTrinhNet\Bai1VeNha\Bai1VeNha\obj\Debug\Bai1VeNha.exe.config

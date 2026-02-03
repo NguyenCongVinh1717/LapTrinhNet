@@ -1,0 +1,7 @@
+D:\vinh\TH\bin\Debug\TH.exe.config
+D:\vinh\TH\bin\Debug\TH.exe
+D:\vinh\TH\bin\Debug\TH.pdb
+D:\vinh\TH\obj\Debug\TachDay.csproj.AssemblyReference.cache
+D:\vinh\TH\obj\Debug\TachDay.csproj.CoreCompileInputs.cache
+D:\vinh\TH\obj\Debug\TH.exe
+D:\vinh\TH\obj\Debug\TH.pdb

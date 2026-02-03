@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\TH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{763598C6-889E-4EC2-931E-3BC1F26D9DE2}|..\\CuuChuong\\CuuChuong.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\cuuchuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BDAE40-007A-4CE9-8116-747DA4444DE5}|..\\DanhSach\\DanhSach.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai3\\danhsach\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BDAE40-007A-4CE9-8116-747DA4444DE5}|..\\DanhSach\\DanhSach.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\danhsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F33AAC-5133-498B-8B30-226408D04A63}|..\\TapTin\\TapTin.csproj|c:\\users\\admin\\documents\\laptrinhnet\\bai3\\taptin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8920F5B7-4697-42F5-89A8-041A65562CBC}|..\\Chuoi\\Chuoi.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\chuoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC959DE-BE68-4AE9-8E39-84C40F7B38FC}|..\\Mang\\Mang.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEC88A1-7058-4883-943A-AA04915CCA17}|TH.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\TH\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEC88A1-7058-4883-943A-AA04915CCA17}|TH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BD840F-4F97-4F95-9440-9351C454B0DA}|..\\HelloWorld\\HelloWorld.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C9C1F2-260B-4BAE-A40E-72A9DEC7056E}|..\\TinhToan\\TinhToan.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\tinhtoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43042CA2-9BC9-4CFA-8C82-FAD01D9FF462}|..\\NhapLieu\\NhapLieu.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\nhaplieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EFDDD3-4A16-4942-B094-4E6914EAEE53}|..\\TamGiac\\TamGiac.csproj|C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\tamgiac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\DanhSach\\App.config",
+              "RelativeDocumentMoniker": "..\\DanhSach\\App.config",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\DanhSach\\App.config",
+              "RelativeToolTip": "..\\DanhSach\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-14T09:20:58.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\TapTin\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TapTin\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\TapTin\\Program.cs",
+              "RelativeToolTip": "..\\TapTin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:20:44.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\DanhSach\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DanhSach\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\DanhSach\\Program.cs",
+              "RelativeToolTip": "..\\DanhSach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:20:45.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\Chuoi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Chuoi\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\Chuoi\\Program.cs",
+              "RelativeToolTip": "..\\Chuoi\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:20:45.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\Mang\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Mang\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\Mang\\Program.cs",
+              "RelativeToolTip": "..\\Mang\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:20:45.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\TamGiac\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TamGiac\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\TamGiac\\Program.cs",
+              "RelativeToolTip": "..\\TamGiac\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:20:45.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\NhapLieu\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NhapLieu\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\NhapLieu\\Program.cs",
+              "RelativeToolTip": "..\\NhapLieu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:20:45.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\CuuChuong\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CuuChuong\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\CuuChuong\\Program.cs",
+              "RelativeToolTip": "..\\CuuChuong\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:20:45.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\TinhToan\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TinhToan\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\TinhToan\\Program.cs",
+              "RelativeToolTip": "..\\TinhToan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:20:45.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "..\\HelloWorld\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:20:45.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\TH\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\Bai3\\TH\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:20:45.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
