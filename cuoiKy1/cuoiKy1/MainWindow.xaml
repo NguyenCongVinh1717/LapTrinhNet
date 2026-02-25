@@ -1,0 +1,72 @@
+﻿<Window x:Class="cuoiKy1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cuoiKy1"
+        mc:Ignorable="d"
+        Title="Quản lý bán hàng" Height="600" Width="800">
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="400"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Margin" Value="10"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Width" Value="55"/>
+            <Setter Property="Height" Value="40"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" FontSize="30" FontWeight="Bold" Margin="10">QUẢN LÝ BÁN HÀNG</TextBlock>
+        <Label Grid.Row="1" Grid.Column="0" VerticalAlignment="Center">Mã sản phẩm:</Label>
+        <Label Grid.Row="2" Grid.Column="0" VerticalAlignment="Center">Tên sản phẩm:</Label>
+        <Label Grid.Row="3" Grid.Column="0" VerticalAlignment="Center">Loại sản phẩm:</Label>
+        <Label Grid.Row="4" Grid.Column="0" VerticalAlignment="Center">Đơn giá:</Label>
+        <Label Grid.Row="5" Grid.Column="0" VerticalAlignment="Center">Số lượng:</Label>
+
+        <TextBox x:Name="masptxt" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center"/>
+        <TextBox x:Name="tensptxt" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center"/>
+        <ComboBox x:Name="loaispcbb" Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" Width="400" Height="30" Margin="10" HorizontalAlignment="Left"/>
+        <TextBox x:Name="dongiatxt" Grid.Row="4" Grid.Column="1" VerticalAlignment="Center"/>
+        <TextBox x:Name="soluongtxt" Grid.Row="5" Grid.Column="1" VerticalAlignment="Center"/>
+        <DataGrid x:Name="dgvTT" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" IsReadOnly="True" AutoGenerateColumns="False" CanUserAddRows="False" Width="500" Height="150" SelectionChanged="selection_changed">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã sản phẩm" Binding="{Binding MaSp}"/>
+                <DataGridTextColumn Header="Tên sản phẩm" Binding="{Binding TenSp}"/>
+                <DataGridTextColumn Header="Loại sản phẩm" Binding="{Binding TenLoai}"/>
+                <DataGridTextColumn Header="Đơn Giá" Binding="{Binding DonGia}"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding SoLuong}"/>
+                <DataGridTextColumn Header="Thành tiền" Binding="{Binding ThanhTien}" Width="180"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" Orientation="Horizontal">
+            <Button x:Name="btnThem" Click="btnThem_Click">Thêm</Button>
+            <Button x:Name="btnSua" Click="btnSua_Click">Sửa</Button>
+            <Button x:Name="btnXoa" Click="btnXoa_Click">Xoá</Button>
+            <Button x:Name="btnTim" Click="btnTim_Click">Tìm</Button>
+            <Button x:Name="btnThongKe" Click="btnThongKe_Click">Thống kê</Button>
+            <Button x:Name="btnXoaForm" Click="btnXoaForm_Click">Xoá form</Button>
+            <Button x:Name="btnDong" Click="btnDong_Click">Đóng</Button>
+        </StackPanel>
+    </Grid>
+</Window>

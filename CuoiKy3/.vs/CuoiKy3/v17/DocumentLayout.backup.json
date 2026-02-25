@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A922C9E-0450-4F4B-B119-34BB82C0E90C}|CuoiKy3\\CuoiKy3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\cuoiky3\\cuoiky3\\mywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A922C9E-0450-4F4B-B119-34BB82C0E90C}|CuoiKy3\\CuoiKy3.csproj|solutionrelative:cuoiky3\\mywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A922C9E-0450-4F4B-B119-34BB82C0E90C}|CuoiKy3\\CuoiKy3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\cuoiky3\\cuoiky3\\mywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A922C9E-0450-4F4B-B119-34BB82C0E90C}|CuoiKy3\\CuoiKy3.csproj|solutionrelative:cuoiky3\\mywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A922C9E-0450-4F4B-B119-34BB82C0E90C}|CuoiKy3\\CuoiKy3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\cuoiky3\\cuoiky3\\models\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A922C9E-0450-4F4B-B119-34BB82C0E90C}|CuoiKy3\\CuoiKy3.csproj|solutionrelative:cuoiky3\\models\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A922C9E-0450-4F4B-B119-34BB82C0E90C}|CuoiKy3\\CuoiKy3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\cuoiky3\\cuoiky3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A922C9E-0450-4F4B-B119-34BB82C0E90C}|CuoiKy3\\CuoiKy3.csproj|solutionrelative:cuoiky3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A922C9E-0450-4F4B-B119-34BB82C0E90C}|CuoiKy3\\CuoiKy3.csproj|c:\\users\\admin\\documents\\laptrinhnet\\cuoiky3\\cuoiky3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A922C9E-0450-4F4B-B119-34BB82C0E90C}|CuoiKy3\\CuoiKy3.csproj|solutionrelative:cuoiky3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\CuoiKy3\\MyWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CuoiKy3\\MyWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\CuoiKy3\\MyWindow.xaml.cs*",
+              "RelativeToolTip": "CuoiKy3\\MyWindow.xaml.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:56:03.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\CuoiKy3\\MyWindow.xaml",
+              "RelativeDocumentMoniker": "CuoiKy3\\MyWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\CuoiKy3\\MyWindow.xaml",
+              "RelativeToolTip": "CuoiKy3\\MyWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-25T13:53:25.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\CuoiKy3\\Models\\HocSinh.cs",
+              "RelativeDocumentMoniker": "CuoiKy3\\Models\\HocSinh.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\CuoiKy3\\Models\\HocSinh.cs",
+              "RelativeToolTip": "CuoiKy3\\Models\\HocSinh.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:12:37.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\CuoiKy3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CuoiKy3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\CuoiKy3\\MainWindow.xaml",
+              "RelativeToolTip": "CuoiKy3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-25T12:48:42.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\CuoiKy3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CuoiKy3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LapTrinhNet\\CuoiKy3\\CuoiKy3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CuoiKy3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAgwM0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:48:36.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

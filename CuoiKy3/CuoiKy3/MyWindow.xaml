@@ -1,0 +1,19 @@
+﻿<Window x:Class="CuoiKy3.MyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CuoiKy3"
+        mc:Ignorable="d"
+        Title="MyWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dgvTK" AutoGenerateColumns="False"
+                  Width="700" Height="200" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã lớp" Binding="{Binding MaLop}"/>
+                <DataGridTextColumn Header="Tên lớp" Binding="{Binding TenLop}"/>
+                <DataGridTextColumn Header="Số học sinh" Binding="{Binding SoHS}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
